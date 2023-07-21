@@ -1,0 +1,1 @@
+(()=>{var o={922:o=>{o.exports={greetUser:function(o){console.log(`Hello, ${o}!`)}}},138:(o,r,e)=>{const t=e(922);o.exports=t}},r={},e=function e(t){var s=r[t];if(void 0!==s)return s.exports;var n=r[t]={exports:{}};return o[t](n,n.exports,e),n.exports}(138);module.exports=e})();
